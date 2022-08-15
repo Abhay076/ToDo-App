@@ -1,7 +1,7 @@
 //this is entry point
 const express = require('express');
 const port =  process.env.PORT||8000;
-
+require('dotenv').config();
 const app = express();
 
 // Redirect all to index.js inside routes directory
