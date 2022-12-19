@@ -4,7 +4,8 @@
   "description": "My to do web App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Abhay Yadav",
   "license": "ISC",
